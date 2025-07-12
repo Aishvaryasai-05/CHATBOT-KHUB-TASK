@@ -1,0 +1,132 @@
+{
+  "chats": [
+    {
+      "id": "1752332404.835685",
+      "title": "Hello AI, how are you?",
+      "created_at": "2025-07-12 15:00:04",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hello AI, how are you?",
+          "timestamp": "2025-07-12 15:00:04"
+        },
+        {
+          "role": "assistant",
+          "content": "Hello! I'm functioning perfectly and ready to help. Thank you for asking! How can I assist you today?",
+          "timestamp": "2025-07-12 15:00:07"
+        },
+        {
+          "role": "user",
+          "content": "hi",
+          "timestamp": "2025-07-12 15:01:59"
+        },
+        {
+          "role": "assistant",
+          "content": "Hello again! How can I help you today?",
+          "timestamp": "2025-07-12 15:02:00"
+        }
+      ]
+    },
+    {
+      "id": "1752332437.931721",
+      "title": "hi",
+      "created_at": "2025-07-12 15:00:37",
+      "messages": []
+    },
+    {
+      "id": "1752332453.315795",
+      "title": "hello",
+      "created_at": "2025-07-12 15:00:53",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hello how are you today?",
+          "timestamp": "2025-07-12 15:26:12"
+        },
+        {
+          "role": "assistant",
+          "content": "I am doing well, thank you for asking!",
+          "timestamp": "2025-07-12 15:26:13"
+        },
+        {
+          "role": "user",
+          "content": "What is the weather like?",
+          "timestamp": "2025-07-12 15:26:17"
+        },
+        {
+          "role": "assistant",
+          "content": "As an AI, I don't have access to real-time weather information.",
+          "timestamp": "2025-07-12 15:26:18"
+        }
+      ]
+    },
+    {
+      "id": "1752333982.626248",
+      "title": "hi",
+      "created_at": "2025-07-12 15:26:22",
+      "messages": [
+        {
+          "role": "user",
+          "content": "hi",
+          "timestamp": "2025-07-12 15:26:51"
+        },
+        {
+          "role": "assistant",
+          "content": "Hi.",
+          "timestamp": "2025-07-12 15:26:52"
+        },
+        {
+          "role": "user",
+          "content": "hello",
+          "timestamp": "2025-07-12 15:26:57"
+        },
+        {
+          "role": "assistant",
+          "content": "The human has repeatedly greeted the assistant, who has only replied to the first greeting so far.",
+          "timestamp": "2025-07-12 15:27:01"
+        }
+      ]
+    },
+    {
+      "id": "1752334342.018232",
+      "title": "New Chat",
+      "created_at": "2025-07-12 15:32:22",
+      "messages": []
+    },
+    {
+      "id": "1752334404.207291",
+      "title": "New Chat",
+      "created_at": "2025-07-12 15:33:24",
+      "messages": []
+    },
+    {
+      "id": "1752334406.700016",
+      "title": "New Chat",
+      "created_at": "2025-07-12 15:33:26",
+      "messages": []
+    },
+    {
+      "id": "1752334407.752521",
+      "title": "hi",
+      "created_at": "2025-07-12 15:33:27",
+      "messages": [
+        {
+          "role": "user",
+          "content": "hi",
+          "timestamp": "2025-07-12 15:33:30"
+        },
+        {
+          "role": "assistant",
+          "content": "Hello there!",
+          "timestamp": "2025-07-12 15:33:31"
+        }
+      ]
+    },
+    {
+      "id": "1752334414.321223",
+      "title": "hello",
+      "created_at": "2025-07-12 15:33:34",
+      "messages": []
+    }
+  ]
+}

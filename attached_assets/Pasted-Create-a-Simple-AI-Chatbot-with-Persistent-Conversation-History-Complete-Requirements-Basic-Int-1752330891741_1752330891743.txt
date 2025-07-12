@@ -1,0 +1,96 @@
+Create a Simple AI Chatbot with Persistent Conversation History - Complete Requirements
+
+Basic Interface Requirements:
+
+Make the interface super casual with simple emojis (🗑️, 🔍) instead of fancy icons
+
+Use language that sounds like a regular person wrote it
+
+Add touch support - tap anywhere in the chat area to start typing
+
+Make buttons bigger and easier to tap on phones
+
+Keep all text simple and confirmation messages casual
+
+Button Functionality:
+
+Make ALL buttons work properly (New Chat, Send, Clear, Delete)
+
+Style the Clear button with green background and white text
+
+Make all buttons look similar with consistent styling
+
+Ensure delete buttons (🗑️) are always visible (not just on hover)
+
+Cursor should change to pointer when hovering over buttons
+
+Chat History Features:
+
+When clicking on previous chats, show the full conversation immediately
+
+Make chat loading fast and responsive
+
+Add a working search bar that:
+
+Activates when clicking on it
+
+Works on Enter key press or when clicking Go
+
+Can search through chat titles/messages
+
+Technical Implementation:
+
+Use simple JSON local storage (no complex databases)
+
+Organize code into basic frontend/backend folders
+
+Write very simple, average-minded code that beginners can understand
+
+Add basic comments in plain language (no technical jargon)
+
+Make sure all date displays work properly
+
+Visual Design:
+
+Set background to full black
+
+Add a subtle dotted pattern to the background
+
+Ensure good contrast for readability
+
+Make the interface clean and uncluttered
+
+Specific Interactions:
+
+Pressing Enter should send messages (in addition to Send button)
+
+New Chat button should create fresh conversations
+
+Clear button should completely clear the current chat
+
+Delete button should immediately remove chats from history
+
+Search should update results in real-time
+
+Performance:
+
+Make the chat appear quickly after sending
+
+Ensure history loads fast when clicking previous chats
+
+Keep the code lightweight and efficient
+
+Final Deliverable:
+A fully functional AI chatbot with persistent conversation history that:
+
+Looks and feels like something an average person made
+
+Has all buttons working properly
+
+Uses simple local JSON storage
+
+Loads previous chats instantly when clicked
+
+Has a clean black background with simple emoji buttons
+
+Is organized in a way that's easy for beginners to understand
